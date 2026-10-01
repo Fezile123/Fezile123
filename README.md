@@ -126,12 +126,12 @@ A machine learning web application that analyzes text sentiment, classifies feed
 
 # 📚 Certifications & Learning
 
-- Deloitte Australia — Data Analytics Job Simulation
-- Software Development — Coursera
-- Artificial Intelligence (AI) Bootcamp — Coursera
-- Google AI Essentials Specialization — Coursera
-- Microsoft AI & Cybersecurity Course — NEMISA
-- Full Stack Development Certificate — FNB App Academy
+- Deloitte Australia - Data Analytics Job Simulation
+- Software Development - Coursera
+- Artificial Intelligence (AI) Bootcamp - Coursera
+- Google AI Essentials Specialization - Coursera
+- Microsoft AI & Cybersecurity Course - NEMISA
+- Full Stack Development Certificate - FNB App Academy
 
 ---
 
